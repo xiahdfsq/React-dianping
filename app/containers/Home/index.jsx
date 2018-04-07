@@ -23,6 +23,7 @@ class Home extends React.Component {
             </div>
         )
     }
+
 }
 
 // -------------------redux react 绑定--------------------
